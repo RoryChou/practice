@@ -1,0 +1,1 @@
+{"version":3,"sources":["part1_chapter5.js"],"names":[],"mappings":"AAAA;;;AAGA;;;AAGA","file":"part1_chapter5-compiled.js","sourcesContent":["/**\r\n * Created by Administrator on 2016/12/14.\r\n */\r\n/*\r\n*   作用域闭包\r\n* */\r\n//当函数可以记住并访问所在的词法作用域时， 就产生了闭包"]}
