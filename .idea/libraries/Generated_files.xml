@@ -4,13 +4,17 @@
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/Dont_know_JS/part1_chapter3-compiled.js" />
         <item url="file://$PROJECT_DIR$/Dont_know_JS/part1_chapter4-compiled.js" />
+        <item url="file://$PROJECT_DIR$/Dont_know_JS/part1_appendix_b-compiled.js" />
         <item url="file://$PROJECT_DIR$/Dont_know_JS/part1_chapter5-compiled.js" />
+        <item url="file://$PROJECT_DIR$/Dont_know_JS/part1_chapter1_appendix_a-compiled.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/Dont_know_JS/part1_chapter3-compiled.js" />
       <root url="file://$PROJECT_DIR$/Dont_know_JS/part1_chapter4-compiled.js" />
+      <root url="file://$PROJECT_DIR$/Dont_know_JS/part1_appendix_b-compiled.js" />
       <root url="file://$PROJECT_DIR$/Dont_know_JS/part1_chapter5-compiled.js" />
+      <root url="file://$PROJECT_DIR$/Dont_know_JS/part1_chapter1_appendix_a-compiled.js" />
     </CLASSES>
     <SOURCES />
   </library>
